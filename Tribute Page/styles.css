@@ -1,0 +1,34 @@
+body {
+  background-color: #ddd;
+}
+#main {
+  font-family: verdana, sans-serif;
+  line-height: 1.5;
+  text-align: justify;
+  background-color: #eee;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: .5em 1.5em;
+  box-shadow: 0 0 2px rgba(0,0,0,.25);
+}
+#title {
+  text-align: center;
+  background-color: #ccc;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  border: 2px solid #ccc;
+}
+#img-caption {
+  font-size: .9em;
+  margin: 0 auto ;
+  max-width: 70%; 
+}
+#tribute-link {
+  text-align: right;
+  color: #555;
+  font-size: .95em;
+  display: block;
+}
